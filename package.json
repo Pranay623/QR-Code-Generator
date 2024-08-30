@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "err": "^2.1.12",
+    "fs": "^0.0.1-security",
+    "inquirer": "^10.1.8",
+    "qr-image": "^3.2.0",
+    "throw": "^1.1.1"
+  },
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "I'm learning npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranay Srivastava",
+  "license": "ISC"
+}
